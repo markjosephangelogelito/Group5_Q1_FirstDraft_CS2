@@ -1,6 +1,7 @@
 # These options are mostly online
+import random
 print("Welcome to CS2 Group 5's Project!")
-name = input("What's your name?")
+name = input("What's your name? ")
 print("Choose a feature from the following three options: ")
 print("1. Anonymous Q&A Forum")
 print("2. Interactive Self-Assessment Tools")
@@ -26,7 +27,7 @@ else:
 
             # asks the user a question for the user to answer
             useranswer = input()
-            userscore = userscore+random(1,0)
+            userscore = userscore+random.randint(1,0)
 
             # inputs userscore then asking another question
         if userscore <= 5:
@@ -41,14 +42,22 @@ else:
         print("Your mental health is currently stable and there are no diagnosable mental conditions. Stay healthy and well " + name + ", we care for your wellbeing.")
     else:
         if userchoice == 3:
+            isaccepted = 0
             print("Select which counselor you wish to talk to and pick an empty time slot for a scheduled appointment.")
             selectedcounselor = input("Input selected counselor")
             timeslot = input("Input time slot")
             appinfo = selectedcounselor + timeslot
+            isaccepted = random.randint(1,0)
 
             # output a notice to the user on whether the counselor accepted the scheduled appointment or not
             # if accepted
+            if isaccepted == 1:
+                print("Your appointment was accepted by: " + selectedcounselor)
             # SET reminder notification for appointment
+                print("reminder of appointment: "+ selectedcounselor + "at " + timeslot)
             # display Your appointment has been successfully set, and a reminder for said appointment has been added to your calendar.
+                print("Your appointment has been successfully set, and a reminder for said appointment has been added to your calendar")
+            else: 
+                print("Your appointment wasn't accepted")
         else:
             print("Invalid choice")
