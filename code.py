@@ -31,13 +31,13 @@ else:
 
             # inputs userscore then asking another question
         if userscore <= 5:
-            print("You may be experiencing signs of [condition].")
+            print("You may be experiencing signs of "+ con1+ ".")
         else:
             if userscore <= 7:
-                print("You may be experiencing signs of [condition].")
+                print("You may be experiencing signs of" +con2 + ".")
             else:
                 if userscore >= 8:
-                    print("You may be experiencing signs of [condition].")
+                    print("You may be experiencing signs of " +con3+ ".")
         print("These are the recommended resources to help with that condition: [list].")
         print("Your mental health is currently stable and there are no diagnosable mental conditions. Stay healthy and well " + name + ", we care for your wellbeing.")
     else:
