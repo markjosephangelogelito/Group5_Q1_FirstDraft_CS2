@@ -13,17 +13,15 @@
   
   Ensure students receive timely care and guidance in maintaining their mental well-being through increasing the accessibility of mental health services.
   
-# Proposed Features
-
   # Anonymous Q&A Forum:
   
-    This feature would allow them to ask questions about what they can do to help themselves. This feature can also be used to share their experiences, seek advice, and connect with peers.
+  This feature would allow them to ask questions about what they can do to help themselves. This feature can also be used to share their experiences, seek advice, and connect with peers.
 
   # Interactive Self-Assessment Tools:
   
-    These are self-assessment tools, such as questionnaires or surveys, designed to identify symptoms of stress, anxiety, or depression. Based on the results, students would receive personalized recommendations for relevant resources and support.
+  These are self-assessment tools, such as questionnaires or surveys, designed to identify symptoms of stress, anxiety, or depression. Based on the results, students would receive personalized recommendations for relevant resources and support.
 
   # Appointment Scheduling and Reminders:
   
-    This feature would allow students to schedule appointments. The system would send reminders to both the student and the provider, lowering the chances of missed appointments and ensuring that students receive timely care.
+  This feature would allow students to schedule appointments. The system would send reminders to both the student and the provider, lowering the chances of missed appointments and ensuring that students receive timely care.
 
