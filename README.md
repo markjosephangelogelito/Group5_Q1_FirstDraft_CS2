@@ -4,7 +4,10 @@
 # Problem Statement
 
   Mental health refers to a person's psychological, emotional, and social well-being; moreover, it affects how one can handle stress, interact with others, make decisions, think, feel, and behave in daily life. Many students face increasing levels of stress and other mental challenges, but proper support is still limited for them. The lack of proper support and accessible resources often results in the deterioration of their mental health, negatively impacting their academic performance, relationships, and overall well-being. Addressing this important issue will ensure that students will get the proper help, accessible resources, guidance, and support to maintain their mental health, whether it is in their personal or academic life.
-  
+
+# Summary of Problem
+   Lack of awareness and accessibility of mental health resources among students, leading to untreated stress, anxiety, and other mental health issues.
+
 # Problem Objectives: This algorithm aims to…
 
   Provide a safe, judgment-free community where students can share their concerns, questions, and experiences related to mental health.
