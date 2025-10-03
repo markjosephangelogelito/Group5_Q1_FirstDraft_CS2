@@ -6,7 +6,7 @@
   Mental health refers to a person's psychological, emotional, and social well-being; moreover, it affects how one can handle stress, interact with others, make decisions, think, feel, and behave in daily life. Many students face increasing levels of stress and other mental challenges, but proper support is still limited for them. The lack of proper support and accessible resources often results in the deterioration of their mental health, negatively impacting their academic performance, relationships, and overall well-being. Addressing this important issue will ensure that students will get the proper help, accessible resources, guidance, and support to maintain their mental health, whether it is in their personal or academic life.
 
 # Summary of Problem
-   Lack of awareness and accessibility of mental health resources among students, leading to untreated stress, anxiety, and other mental health issues.
+  Mental health is an important aspect of a student's life as it influences their critical thinking, ability to manage stress, and their ability to collaborate and interact with others. In today’s world, many students suffer from increasing stress and mental health issues, often facing it without proper support or accessible resources. To address this issue, we proposed a mental health support app; our objective is to create a platform which will provide a safe space aiming to integrate peer connection, self-assessment, and professional support — ensuring that students can maintain their mental, emotional, and social well-being in both their personal and academic life. With this objective in mind, we aim to create a safe, supportive, and secure environment for students alike.
 
 # Problem Objectives: This algorithm aims to…
 
